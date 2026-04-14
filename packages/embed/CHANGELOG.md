@@ -1,5 +1,11 @@
 # @gitbook/embed
 
+## 0.4.1
+
+### Patch Changes
+
+- 8d2a95b: Docs Embed: Better support light/dark mode overrides
+
 ## 0.4.0
 
 ### Minor Changes

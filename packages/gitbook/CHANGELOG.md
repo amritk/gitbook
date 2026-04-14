@@ -1,5 +1,19 @@
 # gitbook
 
+## 0.25.0
+
+### Minor Changes
+
+- 709964f: Rework page layout
+
+### Patch Changes
+
+- 8d2a95b: Docs Embed: Better support light/dark mode overrides
+- 7fd381c: Hide empty sidebar on OpenAPI pages
+- 68c842b: Translations dropdown should show language spaces that best matches the current space title
+- Updated dependencies [8d2a95b]
+  - @gitbook/embed@0.4.1
+
 ## 0.24.0
 
 ### Minor Changes

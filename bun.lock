@@ -7,7 +7,7 @@
       "devDependencies": {
         "@biomejs/biome": "^1.9.4",
         "@changesets/cli": "^2.30.0",
-        "turbo": "^2.9.2",
+        "turbo": "^2.9.6",
         "vercel": "50.37.3",
       },
     },
@@ -48,7 +48,7 @@
     },
     "packages/embed": {
       "name": "@gitbook/embed",
-      "version": "0.4.0",
+      "version": "0.4.1",
       "dependencies": {
         "@gitbook/api": "catalog:",
         "@gitbook/icons": "workspace:",
@@ -109,7 +109,7 @@
     },
     "packages/gitbook": {
       "name": "gitbook",
-      "version": "0.24.0",
+      "version": "0.25.0",
       "dependencies": {
         "@cloudflare/workers-types": "^4.20251011.0",
         "@gitbook/api": "catalog:",
